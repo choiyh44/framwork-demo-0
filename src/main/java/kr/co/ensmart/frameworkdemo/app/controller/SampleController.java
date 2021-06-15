@@ -1,4 +1,4 @@
-package kr.co.ensmart.framworkdemo.app.controller;
+package kr.co.ensmart.frameworkdemo.app.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,13 +1,13 @@
-package kr.co.ensmart.framworkdemo;
+package kr.co.ensmart.frameworkdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FramworkDemo0Application {
+public class FrameworkDemo0Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FramworkDemo0Application.class, args);
+		SpringApplication.run(FrameworkDemo0Application.class, args);
 	}
 
 }
